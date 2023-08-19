@@ -33,7 +33,7 @@ class Program
             }
             else
             {
-                Console.WriteLine($"La palabra '{palabra}' no se encontró en el array.");
+                Console.WriteLine($"\nLa palabra '{palabra}' no se encontró en el array.");
             }
         }
     }
